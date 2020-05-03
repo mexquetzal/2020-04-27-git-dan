@@ -4,3 +4,6 @@
 - add: put files into staging area
 - commit: commit the staging area with a message
     - `commit -m`: commit with the message without opening a text editor
+- `log`: look at all the commit history you have been doing
+    - `log --oneline`: simple oneline log view
+- `diff`: look at differences between current state and what git knows
